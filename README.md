@@ -43,7 +43,7 @@ Download Xampp from this link: https://www.apachefriends.org/download.html and i
 
 ## Deployment
 
-Deployment to a PC:
+Deployment on a local PC:
 *	Copy all the files to a folder called “Foodie”.
 *	Copy the folder “Foodie” to a folder inside the directory where XAMPP is installed, called “htdocs”.
 *	Open XAMPP and press the first two “Start” buttons to turn your PC into the server.

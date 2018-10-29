@@ -35,7 +35,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-You will need Xampp installed on your pc or a online php hosting.
+You will need Xampp installed on your pc or an online php hosting.
 
 ### Installing
 

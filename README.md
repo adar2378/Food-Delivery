@@ -1,6 +1,6 @@
-# Foodie(food delivery)
+# Foodie(Food Delivery)
 
-A simple raw PHP & Javascript based website that is similar to foodpanda. Users can order food online from restaurants from different locations. And the admin can check out all the processes like users, deliveries, total sales etc.
+A simple raw PHP & Javascript based website that is similar to foodpanda. Users can order food online from restaurants from different locations. And the admin can check out all the processes like users, deliveries, total sales etc.Eat Well and be Good.
 <p align="center">
    <br><br>
   <img src="https://image.ibb.co/hzDnLq/Screenshot-2018-10-29-Foodie.png" alt="Screenshot-2018-10-29-Foodie" border="0">
